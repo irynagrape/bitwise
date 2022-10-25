@@ -1,1 +1,2 @@
 # bitwise
+bitwise python code
